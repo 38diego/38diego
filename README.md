@@ -84,6 +84,7 @@ With my team, we built a data architecture and an NLP pipeline for the hospital 
 
 ## Awards & Honors 🏆
 
+&bull; **Meritorious Thesis (Universidad Externado de Colombia, 2026):** for our undergraduate thesis on the morbidity profile and clinical data quality of a hospital, with NLP. I turned it into [ner-clinic-es](https://github.com/38diego/ner-clinic-es) · [live demo](https://ner-clinic-es-355389257185.us-central1.run.app).<br>
 &bull; **2nd Place: Data Science Hackathon (Catch Consulting, Universidad Externado de Colombia, 2024):** with my team, we also won Best Project and Best Presentation.<br>
 &bull; **2nd Place: Insecurity and Business Climate data contest (Cámara de Comercio de Bogotá, 2024):** a data analysis of the impact of insecurity on the business climate in Bogotá.
 
