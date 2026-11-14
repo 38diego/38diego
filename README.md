@@ -25,9 +25,6 @@
   <a href="https://ner-clinic-es-355389257185.us-central1.run.app">
     <img src="https://img.shields.io/badge/Live_demo-ner--clinic--es-0B6E5F?style=flat-square&logo=googlecloud&logoColor=white" alt="Live demo">
   </a>
-  <a href="https://github.com/38diego">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=38diego.38diego" alt="GitHub Visitors">
-  </a>
 </div>
 
 <hr>
